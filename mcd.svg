@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="177mm" xmlns="http://www.w3.org/2000/svg" height="71mm" version="1.1" viewBox="0 0 672 271" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <polyline fill="none" points="123,35 123,128" stroke="#000000" stroke-width="1"/>
+   <text x="123" y="98" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">0,n</text>
+   <polyline fill="none" points="123,216 123,130" stroke="#000000" stroke-width="1"/>
+   <text x="123" y="164" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">1,1</text>
+   <polyline fill="none" points="450,215 374,215" stroke="#000000" stroke-width="1"/>
+   <text x="392" y="218" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">1,1</text>
+   <polyline fill="none" points="143,213 346,213" stroke="#000000" stroke-width="1"/>
+   <text x="299" y="216" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">0,n</text>
+   <rect x="4" y="2" fill="#ffffff" width="253" height="77" stroke="#000000" stroke-width="1"/>
+   <text x="130" y="13" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">USER</text>
+   <line x1="4" x2="257" y1="19" y2="19" stroke="#000000" stroke-width="1"/>
+   <text x="9" y="29" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">idUser</text>
+   <text x="9" y="42" fill="#000000" font-size="10" font-family="Arial">emailUser</text>
+   <text x="9" y="55" fill="#000000" font-size="10" font-family="Arial">passwordUser</text>
+   <text x="79" y="29" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pi&gt;</text>
+   <text x="108" y="29" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Entier</text>
+   <text x="108" y="42" fill="#000000" font-size="10" font-family="Arial">Caractère variable (100)</text>
+   <text x="108" y="55" fill="#000000" font-size="10" font-family="Arial">Caractère variable (100)</text>
+   <text x="229" y="29" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;O&gt;</text>
+   <line x1="4" x2="257" y1="62" y2="62" stroke="#000000" stroke-width="1"/>
+   <text x="9" y="72" fill="#000000" font-size="10" font-family="Arial">Identifiant_1</text>
+   <text x="9" y="84" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="77" y="72" fill="#000000" font-size="10" font-family="Arial">&lt;pi&gt;</text>
+   <rect x="2" y="178" fill="#ffffff" width="281" height="77" stroke="#000000" stroke-width="1"/>
+   <text x="142" y="189" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">PROJECT</text>
+   <line x1="2" x2="283" y1="195" y2="195" stroke="#000000" stroke-width="1"/>
+   <text x="7" y="205" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">idProject</text>
+   <text x="7" y="218" fill="#000000" font-size="10" font-family="Arial">nameProject</text>
+   <text x="7" y="231" fill="#000000" font-size="10" font-family="Arial">descriptiopnProject</text>
+   <text x="105" y="205" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pi&gt;</text>
+   <text x="134" y="205" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Entier</text>
+   <text x="134" y="218" fill="#000000" font-size="10" font-family="Arial">Caractère variable (100)</text>
+   <text x="134" y="231" fill="#000000" font-size="10" font-family="Arial">Texte</text>
+   <text x="255" y="205" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;O&gt;</text>
+   <line x1="2" x2="283" y1="238" y2="238" stroke="#000000" stroke-width="1"/>
+   <text x="7" y="248" fill="#000000" font-size="10" font-family="Arial">Identifiant_1</text>
+   <text x="7" y="260" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="75" y="248" fill="#000000" font-size="10" font-family="Arial">&lt;pi&gt;</text>
+   <rect x="408" y="179" fill="#ffffff" width="262" height="90" stroke="#000000" stroke-width="1"/>
+   <text x="539" y="190" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TASK</text>
+   <line x1="408" x2="670" y1="196" y2="196" stroke="#000000" stroke-width="1"/>
+   <text x="413" y="206" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">idTask</text>
+   <text x="413" y="219" fill="#000000" font-size="10" font-family="Arial">nameTask</text>
+   <text x="413" y="232" fill="#000000" font-size="10" font-family="Arial">descriptionTask</text>
+   <text x="413" y="245" fill="#000000" font-size="10" font-family="Arial">statusTask</text>
+   <text x="492" y="206" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pi&gt;</text>
+   <text x="521" y="206" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">Entier</text>
+   <text x="521" y="219" fill="#000000" font-size="10" font-family="Arial">Caractère variable (100)</text>
+   <text x="521" y="232" fill="#000000" font-size="10" font-family="Arial">Texte</text>
+   <text x="521" y="245" fill="#000000" font-size="10" font-family="Arial">Caractère variable (100)</text>
+   <text x="642" y="206" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;O&gt;</text>
+   <line x1="408" x2="670" y1="252" y2="252" stroke="#000000" stroke-width="1"/>
+   <text x="413" y="262" fill="#000000" font-size="10" font-family="Arial">Identifiant_1</text>
+   <text x="413" y="274" fill="#000000" font-size="10" font-family="Arial">...</text>
+   <text x="481" y="262" fill="#000000" font-size="10" font-family="Arial">&lt;pi&gt;</text>
+   <rect x="91" y="107" rx="17" ry="23" fill="#ffffff" width="64" height="47" stroke="#000000" stroke-width="1"/>
+   <text x="123" y="124" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Gérer</text>
+   <line x1="91" x2="155" y1="130" y2="130" stroke="#000000" stroke-width="1"/>
+   <rect x="310" y="188" rx="17" ry="23" fill="#ffffff" width="68" height="47" stroke="#000000" stroke-width="1"/>
+   <text x="344" y="205" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">Contenir</text>
+   <line x1="310" x2="378" y1="211" y2="211" stroke="#000000" stroke-width="1"/>
+</svg>
