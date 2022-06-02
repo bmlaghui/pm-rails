@@ -20,11 +20,11 @@ $ rails server
 ### Liste des projets
 ![Alt text](projects.PNG?raw=true "Title")
 ### Ajout d'un projet
-![Alt text](new project.PNG?raw=true "Title")
+![Alt text](newproject.PNG?raw=true "Title")
 ### Modification d'un projet
-![Alt text](edit project.PNG?raw=true "Title")
+![Alt text](editproject.PNG?raw=true "Title")
 ### Détails d'un projet
-![Alt text](project details.PNG?raw=true "Title")
+![Alt text](projectdetails.PNG?raw=true "Title")
 ### Modification d'une tâche
 ![Alt text](update task.PNG?raw=true "Title")
 
